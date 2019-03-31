@@ -18,7 +18,6 @@ To build from source, clone the latest version from this repository and its depe
 cd ~/catkin_ws/src
 git clone git@github.com:ethz-asl/mesh_to_grid_map.git
 git clone git@github.com:ANYbotics/grid_map.git
-git clone git@github.com:ethz-asl/pcl_catkin.git
 cd  ~/catkin_ws/
 catkin build mesh_to_grid_map
 ```
