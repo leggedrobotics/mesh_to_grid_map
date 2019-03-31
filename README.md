@@ -8,8 +8,7 @@ A node which converts meshes to grid maps and publishes them.
 
 #### Dependencies
 
-- [Grid Map](https://github.com/ANYbotics/grid_map) (Universal grid map library for mobile robotic mapping),
-- [PCL Catkin](https://github.com/ethz-asl/pcl_catkin) (Catkinized version of the latest version of PCL).
+- [Grid Map](https://github.com/ANYbotics/grid_map) (Universal grid map library for mobile robotic mapping).
 
 
 #### Building
@@ -20,8 +19,6 @@ cd ~/catkin_ws/src
 git clone git@github.com:ethz-asl/mesh_to_grid_map.git
 git clone git@github.com:ANYbotics/grid_map.git
 git clone git@github.com:ethz-asl/pcl_catkin.git
-cd pcl_catkin
-git submodule update --init --recursive
 cd  ~/catkin_ws/
 catkin build mesh_to_grid_map
 ```
