@@ -13,6 +13,8 @@ A node which converts meshes to grid maps and publishes them.
 
 #### Building
 
+[![Build Status](https://ci.leggedrobotics.com/buildStatus/icon?job=github_leggedrobotics/mesh_to_grid_map/master)](https://ci.leggedrobotics.com/job/github_leggedrobotics/job/mesh_to_grid_map/job/master/)
+
 To build from source, clone the latest version from this repository and its dependecies into your catkin workspace and compile the package using
 ```
 cd ~/catkin_ws/src
