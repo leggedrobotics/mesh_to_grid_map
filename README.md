@@ -6,6 +6,8 @@ A node which converts meshes to grid maps and publishes them.
 
 ### Building from Source
 
+[![Build Status](https://ci.leggedrobotics.com/buildStatus/icon?job=github_leggedrobotics/mesh_to_grid_map/master)](https://ci.leggedrobotics.com/job/github_leggedrobotics/job/mesh_to_grid_map/job/master/)
+
 #### Dependencies
 
 - [Grid Map](https://github.com/ANYbotics/grid_map) (Universal grid map library for mobile robotic mapping).
